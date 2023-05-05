@@ -1,3 +1,3 @@
-**End to End ML Project
+**End to End ML Project**
 
 Designed and implemented an end-to-end machine learning project for student performance prediction using Docker and AWS. Developed the project in a modular structure to ensure industrial-grade code quality and scalability. Leveraged various Python libraries such as Scikit-Learn, Pandas, and NumPy for data preprocessing, feature engineering, and model building. Utilized AWS S3 for data storage and AWS EC2 for model training and deployment. Created a REST API using Flask for model inference and deployed the model on AWS Elastic Beanstalk. The project achieved a high accuracy, demonstrating its effectiveness in predicting student performance.
